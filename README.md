@@ -38,7 +38,7 @@ This project aims to detect whether a news article is **fake** or **real** using
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/fake-news-detection-lr.git
+git clone https://github.com/nishithaNsingh/Fake-News-Detection-with-LR.git
 cd fake-news-detection-lr
 ```
 
